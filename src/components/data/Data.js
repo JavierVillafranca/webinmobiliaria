@@ -104,21 +104,21 @@ export const location = [
 export const team = [
   {
     list: "50",
-    cover: "../images/customer/6073873.png",
+    cover: "../images/6073873.png",
     address: "Lecheria",
     name: "Jose Gomez",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "70",
-    cover: "../images/customer/6073873.png",
+    cover: "../images/6073873.png",
     address: "Puerto La cruz",
     name: "Ana Hernandez",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "80",
-    cover: "../images/customer/6073873.png",
+    cover: "../images/6073873.png",
     address: "Barcelona",
     name: "Carlos Rodriguez",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
